@@ -1,5 +1,7 @@
 # Word Cloud Demo
 
+See the working thing online on [Github Pages](https://captainalan.github.io/wordcloud-demo/).
+
 First, I grabbed Bootstrap's [starter template](https://getbootstrap.com/docs/4.3/getting-started/introduction/).
 Next, I grabbed the `wordcloud2.js` file from [here](https://github.com/timdream/wordcloud2.js/blob/gh-pages/src/wordcloud2.js).
 
